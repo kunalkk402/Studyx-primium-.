@@ -349,7 +349,7 @@ const Index = () => {
               
               <div className="bg-gray-900 rounded-lg p-2">
                 <iframe
-                  src="https://bhanuyadav.xyz/kgprojects/liveplayer/activelive.php"
+                  src="http://studyverse-network.netlify.app/studyverse-pw"
                   title="Live Lectures Player"
                   className="w-full h-96 rounded-lg border-0"
                   allow="fullscreen"
